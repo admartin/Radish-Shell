@@ -1,0 +1,20 @@
+# Martin-Benson-p3
+
+Abigail Martin (810-61-8677)
+
+##Instructions
+
+To clean my code type:
+$ make clean
+
+To compile my code type:
+$ make all
+
+To run my code (after compiling it) type:
+./lab13
+
+##Reflection
+The raddish shell there ever was! ...well maybe not since its not fully
+functional and can't do everything that bash can do but whatevs. We tried 
+hard and made a shell that has basic functionality and had some fun along 
+the way. 
