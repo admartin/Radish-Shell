@@ -1,7 +1,3 @@
-# Martin-Benson-p3
-
-Abigail Martin (810-61-8677)
-
 ##Instructions
 
 To clean my code type:
@@ -11,10 +7,9 @@ To compile my code type:
 $ make all
 
 To run my code (after compiling it) type:
-./lab13
+./shell
 
-##Reflection
-The raddish shell there ever was! ...well maybe not since its not fully
-functional and can't do everything that bash can do but whatevs. We tried 
-hard and made a shell that has basic functionality and had some fun along 
-the way. 
+##About
+The raddish shell there ever was! ...well maybe not can't do everything that bash can do but 
+it's pretty dang close. We tried hard and made a shell that has basic functionality, sucha as
+pipelining and process management. The point is that we had some fun along the way! 
